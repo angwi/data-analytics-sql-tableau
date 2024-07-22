@@ -46,6 +46,6 @@ GROUP  BY
 
 ## Dashboard
 <p />
-<a href ="https://public.tableau.com/app/profile/dominic.eyinembi.ncho/viz/bike-sales-final/Dashboard1?publish=yes" >Click this link to interact with the Dashboard</a>
+<a href ="https://public.tableau.com/app/profile/dominic.eyinembi.ncho/viz/bike-sales-final/Dashboard1?publish=yes" target="_blank">Click this link to interact with the Dashboard</a>
 <p>Part of the dashboard is shown below:</p>
 <img src="https://github.com/angwi/data-analytics-sql-tableau/blob/main/dashboard-part.PNG" alt="Part dashboard" />
