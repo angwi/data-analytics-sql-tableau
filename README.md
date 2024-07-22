@@ -1,5 +1,10 @@
-# Bike Sales Analysis
-
+# Bike Sales Executive Dashboard
+## The problem
+The management of a bike sales company wants to know the conditions of sales activities within the company and gain insights into the various trends happening in the sales volume over the 2016, 2017 and 2018 periods. It also wants to know 
+- the revenue per region, per store, per product category and per brand.
+- a list of top customers
+## Data Source
+The data is found in the company's relational database; a Microsoft SQL Server. It was retrieved using SQL to create a dataset.
 ## SQL
 
 ```sql
@@ -43,6 +48,9 @@ GROUP  BY
 	br.brand_name,
 	CONCAT(stf.first_name, ' ', stf.last_name)
 ```
+<p>
+	The dataset was saved as csv file and then imported into Tableau public to create a dashboard.
+</p>
 
 ## Dashboard
 <p />
